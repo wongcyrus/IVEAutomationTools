@@ -12,7 +12,7 @@
 		},
 		"vscode": {
 			"settings": {
-				"python.defaultInterpreterPath": "~/.python/current/bin/python3",
+				"python.defaultInterpreterPath": "/usr/local/bin/python",
 				"python.linting.enabled": true,
 				"python.linting.flake8Path": "/usr/local/py-utils/bin/flake8",
 				"python.linting.flake8Enabled": true,
